@@ -1,14 +1,14 @@
 {
-  "name": "serverless-plugin-info-json",
-  "version": "1.0.2",
-  "description": "A Serverless plugin that adds JSON and file output options to the 'info' command",
+  "name": "serverless-plugin-aws-info-json",
+  "version": "1.0.3",
+  "description": "A Serverless plugin that adds JSON and file output options to the 'info' command for the AWS provider",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jkehres/serverless-plugin-info-json.git"
+    "url": "git@github.com:MichealWilkinson-MT/serverless-plugin-info-json.git"
   },
   "keywords": [
     "serverless",
